@@ -22,7 +22,7 @@ class Rectangle extends Shape_1.Shape {
         this._length = _length;
     }
     getInfo() {
-        return super.getInfo() + `,width=${this._width}, length=${this._length}`;
+        return super.getInfo() + `,width = ${this._width}, length = ${this._length}`;
     }
 }
 exports.Rectangle = Rectangle;
