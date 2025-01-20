@@ -1,4 +1,4 @@
-## Exercise: Implement a Shape Hierarchy with Polymorphism
+## Exercise (05-inheritance): Implement a Shape Hierarchy with Polymorphism
 
 ### Objective
 Learn to:
